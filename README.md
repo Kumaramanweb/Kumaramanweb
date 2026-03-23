@@ -10,7 +10,7 @@
 
 <h2><img src="https://slackmojis.com/emojis/76421-anime_itachiakatsuki/download" width="30" /> <b>Tech Stack<b/></h2>
 
-![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white) ![](https://img.shields.io/badge/Reactnative-61DAFB?style=flat-square&logo=React Native&logoColor=white) ![](https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=CSS&logoColor=white) ![](https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white) ![](https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=CSS&logoColor=white)  ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
     
 
